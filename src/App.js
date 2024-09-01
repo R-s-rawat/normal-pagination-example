@@ -31,7 +31,7 @@ function App() {
 
   },[currentPage]);
 
-  // STEP 12: Finale
+  // STEP 12: Finale 
   const onPageChange= (pageNumber)=>{
     setCurrentPage(pageNumber);
   }
