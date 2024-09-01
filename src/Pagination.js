@@ -1,4 +1,6 @@
 import React from 'react';
+import './Pagination.css';
+
 // STEP 3: pagination reusable component; gets input from parent component e.g App.js
 
 
